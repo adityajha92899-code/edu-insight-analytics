@@ -1,5 +1,5 @@
-# Edu-Insight: Intelligent Student Performance & Retention Analytics System
-
+# AI-Powered Smart Attendance and Student Performance
+Analytics System
 ## Overview
 Edu-Insight is a MERN-stack web application designed for universities to automate attendance tracking and apply rule-based early-warning analytics to identify At-Risk students before detention.
 
